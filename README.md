@@ -1,7 +1,9 @@
 # BootLeggerAI
 A python based chat bot for coders
 
-BootLegger AI is a Python script that uses deep learning, neural networking, and natural language processing to create a chatbot that can help users with their programming needs. The chatbot can understand natural language and generate appropriate responses based on the user's input.
+BootLegger AI is a Python script that uses deep learning, neural networking, and natural language processing to create a chatbot that can help users with their programming needs. The chatbot can understand natural language and generate appropriate responses based on the user's input. 
+
+(A → E, E → I, I → O, O → U, U → A)
 
 ## Instructions for Use
 
